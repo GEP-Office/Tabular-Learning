@@ -1,5 +1,5 @@
-# Tabular-Learning (big update coming soon)
-Tabular-Learning
+# Tabular-ML (big update coming soon)
+Tabular-ML
 
 | Title  | Date | Highlights |
 | ------------- | ------------- | ------------- |
